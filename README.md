@@ -3,15 +3,24 @@
 GROUP 1 (SCHOOL)
 
 Ainnhel Keyrt A. Ciego
-Eggy Caskayan Ladiao
-Joseph Leonardo
-Paul Christian Andal
-Charles Almonte
-Earvin Joshua Torrate
-Franze Louise Arandela
-James Burce
-Zion Pormalejo
+
 Villena Patrick
+
+Eggy Caskayan Ladiao
+
+Earvin Joshua Torrate
+
+Paul Christian Andal
+
+Charles Almonte
+
+Franze Louise Arandela
+
+James Burce
+
+Zion Pormalejo
+
+Joseph Leonardo
 
 
 Requirements:
