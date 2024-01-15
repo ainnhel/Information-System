@@ -4,12 +4,12 @@ GROUP 1 (SCHOOL)
 
 Ainnhel Keyrt A. Ciego
 Eggy Caskayan Ladiao
-Joseph Leonardo 
-Paul Christian Andal 
-Charles Almonte 
-Earvin Joshua Torrate 
+Joseph Leonardo
+Paul Christian Andal
+Charles Almonte
+Earvin Joshua Torrate
 Franze Louise Arandela
-James Burce 
+James Burce
 Zion Pormalejo
 Villena Patrick
 
