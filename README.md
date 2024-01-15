@@ -28,7 +28,7 @@ Villena Patrick
 Requirements:
 Eclipse IDE
 
-Instruction:
+Instructions:
 1. Download the (ainnhel_informationSystem_complete) zip file.
 2. Open Eclipse IDE.
 3. select a workspace.
