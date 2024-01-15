@@ -6,7 +6,7 @@ Eggy Ladiao
 
 Joseph Leonardo 
 
-Ainnhel Keyrt Ciego
+Ainnhel Keyrt A. Ciego
 
 Paul Christian Andal 
 
