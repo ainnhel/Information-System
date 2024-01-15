@@ -2,27 +2,16 @@
 
 GROUP 1 (SCHOOL)
 
-Eggy Ladiao
-
-Joseph Leonardo 
-
 Ainnhel Keyrt A. Ciego
-
+Eggy Caskayan Ladiao
+Joseph Leonardo 
 Paul Christian Andal 
-
 Charles Almonte 
-
-Earvin Torrate 
-
+Earvin Joshua Torrate 
 Franze Louise Arandela
-
 James Burce 
-
 Zion Pormalejo
-
 Villena Patrick
-
-
 
 
 Requirements:
@@ -38,5 +27,3 @@ Instructions:
 7. put check mark on Search for nested projects and Detect and configure projects natures, then click finnish.
 8. run Ainnhel_System.java from src folder.
 9. done.
-
-
