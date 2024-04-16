@@ -1,28 +1,4 @@
 # Information-System
-
-GROUP 1 (SCHOOL)
-
-Ainnhel Keyrt A. Ciego
-
-Villena Patrick
-
-Eggy Caskayan Ladiao
-
-Earvin Joshua Torrate
-
-Paul Christian Andal
-
-Charles Almonte
-
-Franze Louise Arandela
-
-James Burce
-
-Zion Pormalejo
-
-Joseph Leonardo
-
-
 Requirements:
 Eclipse IDE
 
